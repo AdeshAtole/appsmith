@@ -1,4 +1,4 @@
-FROM appsmith/base-ee
+FROM appsmith/base-ee:release
 
 # Add backend server - Application Layer
 ARG JAR_FILE=./app/server/dist/server-*.jar
