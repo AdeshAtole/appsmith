@@ -1,5 +1,4 @@
-ARG BASE
-FROM ${BASE}
+FROM appsmith/base-ee
 
 # Add backend server - Application Layer
 ARG JAR_FILE=./app/server/dist/server-*.jar
