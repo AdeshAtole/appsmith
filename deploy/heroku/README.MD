@@ -5,7 +5,7 @@ Quickly set up Appsmith to explore product functionality using Heroku.
 ## Heroku Installation
 
 - Sign up for a free account on Heroku
-- Click the [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/appsmithorg/appsmith/tree/master) button
+- Click the [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdeshAtole/appsmith/tree/my-heroku-button) button
 - Fill in the required `Config Variables` including:
   - `APPSMITH_ENCRYPTION_PASSWORD`: Encryption password to encrypt all credentials in the database
   - `APPSMITH_ENCRYPTION_SALT`: Encryption salt used to encrypt all credentials in the database
